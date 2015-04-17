@@ -15,7 +15,7 @@ Package.onUse(function(api) {
   api.use(['templating', 'session', 'tracker']);
   // 3rd party
   api.use([
-    'gadicohen:reactive-window@1.0.2'
+    'gadicohen:reactive-window@1.0.4'
     ]);
   api.addFiles('lib/oo-helpers.js', C);
 });
