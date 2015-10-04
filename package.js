@@ -1,6 +1,6 @@
 Package.describe({
   name: 'ox2:helpers',
-  summary: 'Various helpers',
+  summary: 'TESTING_DO_NOT_USE Various helpers',
   version: '1.0.0',
   git: ' /* Fill me in! */ '
 });
